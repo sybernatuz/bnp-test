@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public enum Move {
+public enum Move {
+
+    L,
+    R,
+    M;
 }

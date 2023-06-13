@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public enum Direction {
+public enum Direction {
+
+    N, E, S, W;
+
 }
